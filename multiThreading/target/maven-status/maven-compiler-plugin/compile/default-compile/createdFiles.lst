@@ -1,0 +1,5 @@
+com\taller\multiThreading\RunnableExample.class
+com\taller\multiThreading\ThreadExample.class
+com\taller\multiThreading\CallableExample.class
+com\taller\multiThreading\SynchronizedExample.class
+com\taller\multiThreading\ExecutorServiceExample.class
